@@ -1,0 +1,4 @@
+#Sun Jul 31 18:34:49 CEST 2022
+base.0=C\:\\Users\\tom\\Downloads\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
